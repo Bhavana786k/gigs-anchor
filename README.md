@@ -269,7 +269,7 @@ MySQL DB   FastAPI (AI)   External APIs   Admin Controls
 
 ## 💡 One-Line Pitch
 
-> “GigsAnchor is an AI-powered parametric insurance platform that automatically compensates delivery partners when disruptions stop them from earning — using real-time triggers, fraud detection, and weekly micro-insurance.”
+> “GigsAnchor is an AI-powered parametric insurance platform that automatically compensates food delivery partners when disruptions stop them from earning — using real-time triggers, fraud detection, and weekly micro-insurance.”
 
 \---
 
